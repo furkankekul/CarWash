@@ -1,0 +1,14 @@
+D:\CarWash\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+D:\CarWash\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+D:\CarWash\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\CarWash\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\CarWash\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+D:\CarWash\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarWash\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+D:\CarWash\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+D:\CarWash\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\CarWash\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+D:\CarWash\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+D:\CarWash\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+D:\CarWash\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+D:\CarWash\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
